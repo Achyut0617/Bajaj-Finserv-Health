@@ -3,7 +3,7 @@ package com.bajaj.qualifier.model;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-// ── Request body sent to generateWebhook ──────────────────────────────────────
+
 public class WebhookRequest {
 
     @JsonProperty("name")
